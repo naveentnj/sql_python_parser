@@ -1,5 +1,3 @@
-Certainly! Here's a basic README template for your codes:
-
 ```markdown
 # Phone Book Application
 
@@ -59,6 +57,3 @@ python your_script_name.py
 ## Requirements
 
 - Python 3.x
-
-
-Replace `your_script_name.py` with the actual name of your script. Additionally, you may want to include a license file (e.g., LICENSE) with the details of the license you choose for your project.
