@@ -36,7 +36,7 @@ def read_phonebook(filename):
     return records
 
 # Example usage
-phonebook_filename = "phonebook.csv"
+phonebook_filename = "mock_data/phonebook.csv"
 phonebook_records = read_phonebook(phonebook_filename)
 for record in phonebook_records:
     print(f"Name: {record['name']}, Email: {record['email']}, "
